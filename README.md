@@ -16,7 +16,7 @@
   }
 
   .logo{
-    width:160px;
+    width:150px;
     margin:0 auto 25px auto;
     display:block;
   }
@@ -85,8 +85,9 @@
 </head>
 <body>
 
-<!-- اللوجو -->
-<img src="logo.png" class="logo" alt="Yashim Spa Logo">
+<!-- اللوجو Base64 -->
+<img class="logo" alt="Yashim Spa Logo" 
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADACAYAAABBCyzzAAAp+0lEQVR4nO3dd1xyZZoH8Gf+Ow2lFJE0SYk0SYk0qG...Io4alXcWytTVhKyc8/vD4JFDNRJiD3fz6efvi+59+a5aZ6cc+5ZAARBEARBEARB" />
 
 <div class="social-box">
 
